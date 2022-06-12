@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "973348274346",
+    "project_id": "marijuni-116fb",
+    "storage_bucket": "marijuni-116fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973348274346:android:1b075de8390f3e894650d3",
+        "android_client_info": {
+          "package_name": "com.marijuni_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973348274346-t4dcbgmj26m96vo86qm69dvfr6afk19e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marijuni_app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "973348274346-j3jraai8ngede546eatn5l612jp9c74v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8xlew6Ni0zgoG1wKq_rXUumCAFbIpRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973348274346-j3jraai8ngede546eatn5l612jp9c74v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
